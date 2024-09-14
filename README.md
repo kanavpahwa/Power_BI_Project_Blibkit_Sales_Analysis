@@ -1,1 +1,1 @@
-# Power_BI_Project_Blibkit_Sales_Analysis
+# Power_BI_Project_Blinkit_Sales_Analysis
